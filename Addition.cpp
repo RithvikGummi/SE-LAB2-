@@ -9,3 +9,4 @@ int main() {
     std::cout << "The sum of " << num1 << " and " << num2 << " is: " << sum << std::endl;
     return 0;
 }
+This Program will add your numbers given to it
